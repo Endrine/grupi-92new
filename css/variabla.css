@@ -1,0 +1,35 @@
+/* krijimi i variables globale */
+:root{
+
+    --blue: #4a899e;
+    --white: #ffffff;
+    --black: #000000;
+
+}
+
+
+body{
+    background-color: var(--blue);
+}
+
+h2{
+    border-bottom: 2px solid var(--white);
+}
+
+.container{
+    color: var(--white);
+    background-color: var(--blue);
+    padding: 15px;
+}
+
+
+button{
+    background-color: var(--white);
+    color: var(--blue);
+    border: 1px solid var(--blue);
+    padding: 5px;
+}
+
+.p2{
+    color: var(--black);
+}

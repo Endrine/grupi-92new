@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+.header { 
+    display: flex;
+   
+  
+    
+
+}
+
+.right-header {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.icon-header {
+    justify-content: space-around;
+}

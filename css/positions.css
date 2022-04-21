@@ -1,0 +1,50 @@
+/* .box{
+    width: 150px;
+    height: 150px;
+}
+
+.orange{
+    background-color: #ffa500;
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    
+}
+
+.blue{
+    background-color: blue;
+    position: relative;
+    top: 150px;
+    left: 200px;
+   
+} */
+
+/* 
+.box{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+
+}
+
+.child{
+    background-color: orange;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+} */
+
+
+.footer{
+    background-color: lightblue;
+    opacity: 0.83;
+    width: 100%;
+    color: black;
+    height: 80px;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}

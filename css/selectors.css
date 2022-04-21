@@ -1,0 +1,38 @@
+/* p,
+.hello{
+    color: red;
+}
+
+
+div + p{
+    color: blue;
+} */
+
+
+/* p ~ ul {
+    background-color: chocolate;
+} */
+
+
+/* p:first-child{
+    background-color: yellow;
+} */
+
+
+/* p:last-child{
+    background-color: yellow;
+} */
+
+/* p:nth-child(2){
+background-color: yellow;
+} */
+
+/* p:nth-of-type(odd){
+    background-color: yellow;
+}
+
+p:nth-of-type(even){
+    background-color: red;
+
+} */
+

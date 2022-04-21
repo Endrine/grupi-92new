@@ -1,0 +1,11 @@
+.body{
+    
+}
+
+
+.heart{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(216, 110, 110);
+    position: relative;
+}
